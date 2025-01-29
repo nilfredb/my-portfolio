@@ -103,7 +103,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or want to connect, feel free to reach out:
 
-- **Email:** [your-email@example.com](mailto:nbaez414@gmail.com)
+- **Email:** [nbaez414@gmail.com](mailto:nbaez414@gmail.com)
 - **Website:** [nilfred.dev](https://nilfred.dev)
 - **GitHub:** [github.com/nilfredb](https://github.com/nilfredb)
 
