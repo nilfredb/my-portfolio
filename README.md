@@ -70,10 +70,10 @@ my-portfolio/
 ## Screenshots
 
 ### Home Page
-![Home Page](./src/screenshot1.png)
+![Home Page](./src/Screenshot1.png)
 
 ### Skills Section
-![Skills Section](./src/screenshot2.png)
+![Skills Section](./src/Screenshot2.png)
 
 ---
 
